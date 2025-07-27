@@ -244,6 +244,7 @@ table{
     transition: 1.2s;
 }
 .div3:hover i{
+    
     scale: 1.5;
     transition: 1.2s;
 }
